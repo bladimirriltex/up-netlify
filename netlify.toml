@@ -1,4 +1,3 @@
 [build]
-  base =  "js-portafolio" 
   publis = "dist"
   command = "npm run build"
